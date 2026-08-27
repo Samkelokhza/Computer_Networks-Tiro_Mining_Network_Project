@@ -2,14 +2,14 @@
 Tiro Mining Engineering Services
 Resilient Network Design
 
-CMPG325
+# CMPG325
 Project ID: "My Project ID"
 Client ID: "My client Id"
 Location: Vryburg
 Industry: Engineering
 
-Technical Challenge:
+# Technical Challenge:
 Internal HTTP/Web Server Hosting
 
-Change Request:
+# Change Request:
 CR15 – Second Internet Connection for Resilience
