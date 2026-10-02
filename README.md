@@ -42,7 +42,6 @@ Key requirements addressed:
   - NAT translations and ACL hit counts on FW1.  
   - Failover test showing ISP2 takeover when ISP1 fails.  
 
----
 
 ##Evidence of Testing
 Screenshots included in the documentation file show:
@@ -52,4 +51,3 @@ Screenshots included in the documentation file show:
 - **Failover Testing:** Routing table before/after ISP1 shutdown.  
 
 
-## 📂 Repository Structure
